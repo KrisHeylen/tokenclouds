@@ -1,0 +1,217 @@
+_model	LEMMAPATH	LEMMAREL	bound	foc_base	foc_context_words	foc_pmi	foc_pos	foc_win	soc_length	soc_pos	tokens
+monitor.LEMMAPATH2.PPMIno.LENGTH5000.SOCPOSall	LEMMAPATH2			LEMMAPATH	400	no			5000	all	240
+monitor.LEMMAPATH2.PPMIno.LENGTH5000.SOCPOSnav	LEMMAPATH2			LEMMAPATH	400	no			5000	nav	240
+monitor.LEMMAPATH2.PPMIno.LENGTHFOC.SOCPOSall	LEMMAPATH2			LEMMAPATH	400	no			FOC	all	240
+monitor.LEMMAPATH2.PPMIno.LENGTHFOC.SOCPOSnav	LEMMAPATH2			LEMMAPATH	400	no			FOC	nav	240
+monitor.LEMMAPATH2.PPMIselection.LENGTH5000.SOCPOSall	LEMMAPATH2			LEMMAPATH	295	selection			5000	all	239
+monitor.LEMMAPATH2.PPMIselection.LENGTH5000.SOCPOSnav	LEMMAPATH2			LEMMAPATH	295	selection			5000	nav	239
+monitor.LEMMAPATH2.PPMIselection.LENGTHFOC.SOCPOSall	LEMMAPATH2			LEMMAPATH	295	selection			FOC	all	239
+monitor.LEMMAPATH2.PPMIselection.LENGTHFOC.SOCPOSnav	LEMMAPATH2			LEMMAPATH	295	selection			FOC	nav	239
+monitor.LEMMAPATH2.PPMIweight.LENGTH5000.SOCPOSall	LEMMAPATH2			LEMMAPATH	295	weight			5000	all	239
+monitor.LEMMAPATH2.PPMIweight.LENGTH5000.SOCPOSnav	LEMMAPATH2			LEMMAPATH	295	weight			5000	nav	239
+monitor.LEMMAPATH2.PPMIweight.LENGTHFOC.SOCPOSall	LEMMAPATH2			LEMMAPATH	295	weight			FOC	all	239
+monitor.LEMMAPATH2.PPMIweight.LENGTHFOC.SOCPOSnav	LEMMAPATH2			LEMMAPATH	295	weight			FOC	nav	239
+monitor.LEMMAPATH3.PPMIno.LENGTH5000.SOCPOSall	LEMMAPATH3			LEMMAPATH	621	no			5000	all	235
+monitor.LEMMAPATH3.PPMIno.LENGTH5000.SOCPOSnav	LEMMAPATH3			LEMMAPATH	621	no			5000	nav	235
+monitor.LEMMAPATH3.PPMIno.LENGTHFOC.SOCPOSall	LEMMAPATH3			LEMMAPATH	621	no			FOC	all	235
+monitor.LEMMAPATH3.PPMIno.LENGTHFOC.SOCPOSnav	LEMMAPATH3			LEMMAPATH	621	no			FOC	nav	235
+monitor.LEMMAPATH3.PPMIselection.LENGTH5000.SOCPOSall	LEMMAPATH3			LEMMAPATH	419	selection			5000	all	235
+monitor.LEMMAPATH3.PPMIselection.LENGTH5000.SOCPOSnav	LEMMAPATH3			LEMMAPATH	419	selection			5000	nav	235
+monitor.LEMMAPATH3.PPMIselection.LENGTHFOC.SOCPOSall	LEMMAPATH3			LEMMAPATH	419	selection			FOC	all	235
+monitor.LEMMAPATH3.PPMIselection.LENGTHFOC.SOCPOSnav	LEMMAPATH3			LEMMAPATH	419	selection			FOC	nav	235
+monitor.LEMMAPATH3.PPMIweight.LENGTH5000.SOCPOSall	LEMMAPATH3			LEMMAPATH	419	weight			5000	all	235
+monitor.LEMMAPATH3.PPMIweight.LENGTH5000.SOCPOSnav	LEMMAPATH3			LEMMAPATH	419	weight			5000	nav	235
+monitor.LEMMAPATH3.PPMIweight.LENGTHFOC.SOCPOSall	LEMMAPATH3			LEMMAPATH	419	weight			FOC	all	235
+monitor.LEMMAPATH3.PPMIweight.LENGTHFOC.SOCPOSnav	LEMMAPATH3			LEMMAPATH	419	weight			FOC	nav	235
+monitor.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	LEMMAPATHweight			LEMMAPATH	621	no			5000	all	235
+monitor.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	LEMMAPATHweight			LEMMAPATH	621	no			5000	nav	235
+monitor.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	LEMMAPATHweight			LEMMAPATH	621	no			FOC	all	235
+monitor.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	LEMMAPATHweight			LEMMAPATH	621	no			FOC	nav	235
+monitor.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	LEMMAPATHweight			LEMMAPATH	419	selection			5000	all	235
+monitor.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	LEMMAPATHweight			LEMMAPATH	419	selection			5000	nav	235
+monitor.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	LEMMAPATHweight			LEMMAPATH	419	selection			FOC	all	235
+monitor.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	LEMMAPATHweight			LEMMAPATH	419	selection			FOC	nav	235
+monitor.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall	LEMMAPATHweight			LEMMAPATH	419	weight			5000	all	235
+monitor.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSnav	LEMMAPATHweight			LEMMAPATH	419	weight			5000	nav	235
+monitor.LEMMAPATHweight.PPMIweight.LENGTHFOC.SOCPOSall	LEMMAPATHweight			LEMMAPATH	419	weight			FOC	all	235
+monitor.LEMMAPATHweight.PPMIweight.LENGTHFOC.SOCPOSnav	LEMMAPATHweight			LEMMAPATH	419	weight			FOC	nav	235
+monitor.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall		LEMMAREL1		LEMMAREL	141	no			5000	all	224
+monitor.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav		LEMMAREL1		LEMMAREL	141	no			5000	nav	224
+monitor.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall		LEMMAREL1		LEMMAREL	141	no			FOC	all	224
+monitor.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav		LEMMAREL1		LEMMAREL	141	no			FOC	nav	224
+monitor.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall		LEMMAREL1		LEMMAREL	114	selection			5000	all	218
+monitor.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav		LEMMAREL1		LEMMAREL	114	selection			5000	nav	218
+monitor.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall		LEMMAREL1		LEMMAREL	114	selection			FOC	all	218
+monitor.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav		LEMMAREL1		LEMMAREL	114	selection			FOC	nav	218
+monitor.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall		LEMMAREL1		LEMMAREL	114	weight			5000	all	218
+monitor.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav		LEMMAREL1		LEMMAREL	114	weight			5000	nav	218
+monitor.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall		LEMMAREL1		LEMMAREL	114	weight			FOC	all	218
+monitor.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav		LEMMAREL1		LEMMAREL	114	weight			FOC	nav	218
+monitor.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall		LEMMAREL2		LEMMAREL	259	no			5000	all	240
+monitor.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav		LEMMAREL2		LEMMAREL	259	no			5000	nav	240
+monitor.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall		LEMMAREL2		LEMMAREL	259	no			FOC	all	240
+monitor.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav		LEMMAREL2		LEMMAREL	259	no			FOC	nav	240
+monitor.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall		LEMMAREL2		LEMMAREL	210	selection			5000	all	234
+monitor.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav		LEMMAREL2		LEMMAREL	210	selection			5000	nav	234
+monitor.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall		LEMMAREL2		LEMMAREL	210	selection			FOC	all	234
+monitor.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav		LEMMAREL2		LEMMAREL	210	selection			FOC	nav	234
+monitor.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall		LEMMAREL2		LEMMAREL	210	weight			5000	all	234
+monitor.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav		LEMMAREL2		LEMMAREL	210	weight			5000	nav	234
+monitor.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall		LEMMAREL2		LEMMAREL	210	weight			FOC	all	234
+monitor.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav		LEMMAREL2		LEMMAREL	210	weight			FOC	nav	234
+monitor.LEMMAREL3.PPMIno.LENGTH5000.SOCPOSall		LEMMAREL3		LEMMAREL	309	no			5000	all	240
+monitor.LEMMAREL3.PPMIno.LENGTH5000.SOCPOSnav		LEMMAREL3		LEMMAREL	309	no			5000	nav	240
+monitor.LEMMAREL3.PPMIno.LENGTHFOC.SOCPOSall		LEMMAREL3		LEMMAREL	309	no			FOC	all	240
+monitor.LEMMAREL3.PPMIno.LENGTHFOC.SOCPOSnav		LEMMAREL3		LEMMAREL	309	no			FOC	nav	240
+monitor.LEMMAREL3.PPMIselection.LENGTH5000.SOCPOSall		LEMMAREL3		LEMMAREL	243	selection			5000	all	236
+monitor.LEMMAREL3.PPMIselection.LENGTH5000.SOCPOSnav		LEMMAREL3		LEMMAREL	243	selection			5000	nav	236
+monitor.LEMMAREL3.PPMIselection.LENGTHFOC.SOCPOSall		LEMMAREL3		LEMMAREL	243	selection			FOC	all	236
+monitor.LEMMAREL3.PPMIselection.LENGTHFOC.SOCPOSnav		LEMMAREL3		LEMMAREL	243	selection			FOC	nav	236
+monitor.LEMMAREL3.PPMIweight.LENGTH5000.SOCPOSall		LEMMAREL3		LEMMAREL	243	weight			5000	all	236
+monitor.LEMMAREL3.PPMIweight.LENGTH5000.SOCPOSnav		LEMMAREL3		LEMMAREL	243	weight			5000	nav	236
+monitor.LEMMAREL3.PPMIweight.LENGTHFOC.SOCPOSall		LEMMAREL3		LEMMAREL	243	weight			FOC	all	236
+monitor.LEMMAREL3.PPMIweight.LENGTHFOC.SOCPOSnav		LEMMAREL3		LEMMAREL	243	weight			FOC	nav	236
+monitor.bound10-10all.PPMIno.LENGTH5000.SOCPOSall			True	BOW	1105	no	all	10-10	5000	all	240
+monitor.bound10-10all.PPMIno.LENGTH5000.SOCPOSnav			True	BOW	1105	no	all	10-10	5000	nav	240
+monitor.bound10-10all.PPMIno.LENGTHFOC.SOCPOSall			True	BOW	1105	no	all	10-10	FOC	all	240
+monitor.bound10-10all.PPMIno.LENGTHFOC.SOCPOSnav			True	BOW	1105	no	all	10-10	FOC	nav	240
+monitor.bound10-10all.PPMIselection.LENGTH5000.SOCPOSall			True	BOW	623	selection	all	10-10	5000	all	239
+monitor.bound10-10all.PPMIselection.LENGTH5000.SOCPOSnav			True	BOW	623	selection	all	10-10	5000	nav	239
+monitor.bound10-10all.PPMIselection.LENGTHFOC.SOCPOSall			True	BOW	623	selection	all	10-10	FOC	all	239
+monitor.bound10-10all.PPMIselection.LENGTHFOC.SOCPOSnav			True	BOW	623	selection	all	10-10	FOC	nav	239
+monitor.bound10-10all.PPMIweight.LENGTH5000.SOCPOSall			True	BOW	623	weight	all	10-10	5000	all	239
+monitor.bound10-10all.PPMIweight.LENGTH5000.SOCPOSnav			True	BOW	623	weight	all	10-10	5000	nav	239
+monitor.bound10-10all.PPMIweight.LENGTHFOC.SOCPOSall			True	BOW	623	weight	all	10-10	FOC	all	239
+monitor.bound10-10all.PPMIweight.LENGTHFOC.SOCPOSnav			True	BOW	623	weight	all	10-10	FOC	nav	239
+monitor.bound10-10lex.PPMIno.LENGTH5000.SOCPOSall			True	BOW	809	no	lex	10-10	5000	all	240
+monitor.bound10-10lex.PPMIno.LENGTH5000.SOCPOSnav			True	BOW	809	no	lex	10-10	5000	nav	240
+monitor.bound10-10lex.PPMIno.LENGTHFOC.SOCPOSall			True	BOW	809	no	lex	10-10	FOC	all	240
+monitor.bound10-10lex.PPMIno.LENGTHFOC.SOCPOSnav			True	BOW	809	no	lex	10-10	FOC	nav	240
+monitor.bound10-10lex.PPMIselection.LENGTH5000.SOCPOSall			True	BOW	464	selection	lex	10-10	5000	all	237
+monitor.bound10-10lex.PPMIselection.LENGTH5000.SOCPOSnav			True	BOW	464	selection	lex	10-10	5000	nav	237
+monitor.bound10-10lex.PPMIselection.LENGTHFOC.SOCPOSall			True	BOW	464	selection	lex	10-10	FOC	all	237
+monitor.bound10-10lex.PPMIselection.LENGTHFOC.SOCPOSnav			True	BOW	464	selection	lex	10-10	FOC	nav	237
+monitor.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall			True	BOW	464	weight	lex	10-10	5000	all	237
+monitor.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSnav			True	BOW	464	weight	lex	10-10	5000	nav	237
+monitor.bound10-10lex.PPMIweight.LENGTHFOC.SOCPOSall			True	BOW	464	weight	lex	10-10	FOC	all	237
+monitor.bound10-10lex.PPMIweight.LENGTHFOC.SOCPOSnav			True	BOW	464	weight	lex	10-10	FOC	nav	237
+monitor.bound3-3all.PPMIno.LENGTH5000.SOCPOSall			True	BOW	463	no	all	3-3	5000	all	240
+monitor.bound3-3all.PPMIno.LENGTH5000.SOCPOSnav			True	BOW	463	no	all	3-3	5000	nav	240
+monitor.bound3-3all.PPMIno.LENGTHFOC.SOCPOSall			True	BOW	463	no	all	3-3	FOC	all	240
+monitor.bound3-3all.PPMIno.LENGTHFOC.SOCPOSnav			True	BOW	463	no	all	3-3	FOC	nav	240
+monitor.bound3-3all.PPMIselection.LENGTH5000.SOCPOSall			True	BOW	373	selection	all	3-3	5000	all	239
+monitor.bound3-3all.PPMIselection.LENGTH5000.SOCPOSnav			True	BOW	373	selection	all	3-3	5000	nav	239
+monitor.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall			True	BOW	373	selection	all	3-3	FOC	all	239
+monitor.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSnav			True	BOW	373	selection	all	3-3	FOC	nav	239
+monitor.bound3-3all.PPMIweight.LENGTH5000.SOCPOSall			True	BOW	373	weight	all	3-3	5000	all	239
+monitor.bound3-3all.PPMIweight.LENGTH5000.SOCPOSnav			True	BOW	373	weight	all	3-3	5000	nav	239
+monitor.bound3-3all.PPMIweight.LENGTHFOC.SOCPOSall			True	BOW	373	weight	all	3-3	FOC	all	239
+monitor.bound3-3all.PPMIweight.LENGTHFOC.SOCPOSnav			True	BOW	373	weight	all	3-3	FOC	nav	239
+monitor.bound3-3lex.PPMIno.LENGTH5000.SOCPOSall			True	BOW	326	no	lex	3-3	5000	all	240
+monitor.bound3-3lex.PPMIno.LENGTH5000.SOCPOSnav			True	BOW	326	no	lex	3-3	5000	nav	240
+monitor.bound3-3lex.PPMIno.LENGTHFOC.SOCPOSall			True	BOW	326	no	lex	3-3	FOC	all	240
+monitor.bound3-3lex.PPMIno.LENGTHFOC.SOCPOSnav			True	BOW	326	no	lex	3-3	FOC	nav	240
+monitor.bound3-3lex.PPMIselection.LENGTH5000.SOCPOSall			True	BOW	266	selection	lex	3-3	5000	all	216
+monitor.bound3-3lex.PPMIselection.LENGTH5000.SOCPOSnav			True	BOW	266	selection	lex	3-3	5000	nav	216
+monitor.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall			True	BOW	266	selection	lex	3-3	FOC	all	216
+monitor.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSnav			True	BOW	266	selection	lex	3-3	FOC	nav	216
+monitor.bound3-3lex.PPMIweight.LENGTH5000.SOCPOSall			True	BOW	266	weight	lex	3-3	5000	all	216
+monitor.bound3-3lex.PPMIweight.LENGTH5000.SOCPOSnav			True	BOW	266	weight	lex	3-3	5000	nav	216
+monitor.bound3-3lex.PPMIweight.LENGTHFOC.SOCPOSall			True	BOW	266	weight	lex	3-3	FOC	all	216
+monitor.bound3-3lex.PPMIweight.LENGTHFOC.SOCPOSnav			True	BOW	266	weight	lex	3-3	FOC	nav	216
+monitor.bound5-5all.PPMIno.LENGTH5000.SOCPOSall			True	BOW	718	no	all	5-5	5000	all	240
+monitor.bound5-5all.PPMIno.LENGTH5000.SOCPOSnav			True	BOW	718	no	all	5-5	5000	nav	240
+monitor.bound5-5all.PPMIno.LENGTHFOC.SOCPOSall			True	BOW	718	no	all	5-5	FOC	all	240
+monitor.bound5-5all.PPMIno.LENGTHFOC.SOCPOSnav			True	BOW	718	no	all	5-5	FOC	nav	240
+monitor.bound5-5all.PPMIselection.LENGTH5000.SOCPOSall			True	BOW	514	selection	all	5-5	5000	all	239
+monitor.bound5-5all.PPMIselection.LENGTH5000.SOCPOSnav			True	BOW	514	selection	all	5-5	5000	nav	239
+monitor.bound5-5all.PPMIselection.LENGTHFOC.SOCPOSall			True	BOW	514	selection	all	5-5	FOC	all	239
+monitor.bound5-5all.PPMIselection.LENGTHFOC.SOCPOSnav			True	BOW	514	selection	all	5-5	FOC	nav	239
+monitor.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall			True	BOW	514	weight	all	5-5	5000	all	239
+monitor.bound5-5all.PPMIweight.LENGTH5000.SOCPOSnav			True	BOW	514	weight	all	5-5	5000	nav	239
+monitor.bound5-5all.PPMIweight.LENGTHFOC.SOCPOSall			True	BOW	514	weight	all	5-5	FOC	all	239
+monitor.bound5-5all.PPMIweight.LENGTHFOC.SOCPOSnav			True	BOW	514	weight	all	5-5	FOC	nav	239
+monitor.bound5-5lex.PPMIno.LENGTH5000.SOCPOSall			True	BOW	520	no	lex	5-5	5000	all	240
+monitor.bound5-5lex.PPMIno.LENGTH5000.SOCPOSnav			True	BOW	520	no	lex	5-5	5000	nav	240
+monitor.bound5-5lex.PPMIno.LENGTHFOC.SOCPOSall			True	BOW	520	no	lex	5-5	FOC	all	240
+monitor.bound5-5lex.PPMIno.LENGTHFOC.SOCPOSnav			True	BOW	520	no	lex	5-5	FOC	nav	240
+monitor.bound5-5lex.PPMIselection.LENGTH5000.SOCPOSall			True	BOW	374	selection	lex	5-5	5000	all	232
+monitor.bound5-5lex.PPMIselection.LENGTH5000.SOCPOSnav			True	BOW	374	selection	lex	5-5	5000	nav	232
+monitor.bound5-5lex.PPMIselection.LENGTHFOC.SOCPOSall			True	BOW	374	selection	lex	5-5	FOC	all	232
+monitor.bound5-5lex.PPMIselection.LENGTHFOC.SOCPOSnav			True	BOW	374	selection	lex	5-5	FOC	nav	232
+monitor.bound5-5lex.PPMIweight.LENGTH5000.SOCPOSall			True	BOW	374	weight	lex	5-5	5000	all	232
+monitor.bound5-5lex.PPMIweight.LENGTH5000.SOCPOSnav			True	BOW	374	weight	lex	5-5	5000	nav	232
+monitor.bound5-5lex.PPMIweight.LENGTHFOC.SOCPOSall			True	BOW	374	weight	lex	5-5	FOC	all	232
+monitor.bound5-5lex.PPMIweight.LENGTHFOC.SOCPOSnav			True	BOW	374	weight	lex	5-5	FOC	nav	232
+monitor.nobound10-10all.PPMIno.LENGTH5000.SOCPOSall			False	BOW	1473	no	all	10-10	5000	all	240
+monitor.nobound10-10all.PPMIno.LENGTH5000.SOCPOSnav			False	BOW	1473	no	all	10-10	5000	nav	240
+monitor.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSall			False	BOW	1473	no	all	10-10	FOC	all	240
+monitor.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSnav			False	BOW	1473	no	all	10-10	FOC	nav	240
+monitor.nobound10-10all.PPMIselection.LENGTH5000.SOCPOSall			False	BOW	751	selection	all	10-10	5000	all	240
+monitor.nobound10-10all.PPMIselection.LENGTH5000.SOCPOSnav			False	BOW	751	selection	all	10-10	5000	nav	240
+monitor.nobound10-10all.PPMIselection.LENGTHFOC.SOCPOSall			False	BOW	751	selection	all	10-10	FOC	all	240
+monitor.nobound10-10all.PPMIselection.LENGTHFOC.SOCPOSnav			False	BOW	751	selection	all	10-10	FOC	nav	240
+monitor.nobound10-10all.PPMIweight.LENGTH5000.SOCPOSall			False	BOW	751	weight	all	10-10	5000	all	240
+monitor.nobound10-10all.PPMIweight.LENGTH5000.SOCPOSnav			False	BOW	751	weight	all	10-10	5000	nav	240
+monitor.nobound10-10all.PPMIweight.LENGTHFOC.SOCPOSall			False	BOW	751	weight	all	10-10	FOC	all	240
+monitor.nobound10-10all.PPMIweight.LENGTHFOC.SOCPOSnav			False	BOW	751	weight	all	10-10	FOC	nav	240
+monitor.nobound10-10lex.PPMIno.LENGTH5000.SOCPOSall			False	BOW	1089	no	lex	10-10	5000	all	240
+monitor.nobound10-10lex.PPMIno.LENGTH5000.SOCPOSnav			False	BOW	1089	no	lex	10-10	5000	nav	240
+monitor.nobound10-10lex.PPMIno.LENGTHFOC.SOCPOSall			False	BOW	1089	no	lex	10-10	FOC	all	240
+monitor.nobound10-10lex.PPMIno.LENGTHFOC.SOCPOSnav			False	BOW	1089	no	lex	10-10	FOC	nav	240
+monitor.nobound10-10lex.PPMIselection.LENGTH5000.SOCPOSall			False	BOW	563	selection	lex	10-10	5000	all	239
+monitor.nobound10-10lex.PPMIselection.LENGTH5000.SOCPOSnav			False	BOW	563	selection	lex	10-10	5000	nav	239
+monitor.nobound10-10lex.PPMIselection.LENGTHFOC.SOCPOSall			False	BOW	563	selection	lex	10-10	FOC	all	239
+monitor.nobound10-10lex.PPMIselection.LENGTHFOC.SOCPOSnav			False	BOW	563	selection	lex	10-10	FOC	nav	239
+monitor.nobound10-10lex.PPMIweight.LENGTH5000.SOCPOSall			False	BOW	563	weight	lex	10-10	5000	all	239
+monitor.nobound10-10lex.PPMIweight.LENGTH5000.SOCPOSnav			False	BOW	563	weight	lex	10-10	5000	nav	239
+monitor.nobound10-10lex.PPMIweight.LENGTHFOC.SOCPOSall			False	BOW	563	weight	lex	10-10	FOC	all	239
+monitor.nobound10-10lex.PPMIweight.LENGTHFOC.SOCPOSnav			False	BOW	563	weight	lex	10-10	FOC	nav	239
+monitor.nobound3-3all.PPMIno.LENGTH5000.SOCPOSall			False	BOW	506	no	all	3-3	5000	all	240
+monitor.nobound3-3all.PPMIno.LENGTH5000.SOCPOSnav			False	BOW	506	no	all	3-3	5000	nav	240
+monitor.nobound3-3all.PPMIno.LENGTHFOC.SOCPOSall			False	BOW	506	no	all	3-3	FOC	all	240
+monitor.nobound3-3all.PPMIno.LENGTHFOC.SOCPOSnav			False	BOW	506	no	all	3-3	FOC	nav	240
+monitor.nobound3-3all.PPMIselection.LENGTH5000.SOCPOSall			False	BOW	404	selection	all	3-3	5000	all	240
+monitor.nobound3-3all.PPMIselection.LENGTH5000.SOCPOSnav			False	BOW	404	selection	all	3-3	5000	nav	240
+monitor.nobound3-3all.PPMIselection.LENGTHFOC.SOCPOSall			False	BOW	404	selection	all	3-3	FOC	all	240
+monitor.nobound3-3all.PPMIselection.LENGTHFOC.SOCPOSnav			False	BOW	404	selection	all	3-3	FOC	nav	240
+monitor.nobound3-3all.PPMIweight.LENGTH5000.SOCPOSall			False	BOW	404	weight	all	3-3	5000	all	240
+monitor.nobound3-3all.PPMIweight.LENGTH5000.SOCPOSnav			False	BOW	404	weight	all	3-3	5000	nav	240
+monitor.nobound3-3all.PPMIweight.LENGTHFOC.SOCPOSall			False	BOW	404	weight	all	3-3	FOC	all	240
+monitor.nobound3-3all.PPMIweight.LENGTHFOC.SOCPOSnav			False	BOW	404	weight	all	3-3	FOC	nav	240
+monitor.nobound3-3lex.PPMIno.LENGTH5000.SOCPOSall			False	BOW	352	no	lex	3-3	5000	all	240
+monitor.nobound3-3lex.PPMIno.LENGTH5000.SOCPOSnav			False	BOW	352	no	lex	3-3	5000	nav	240
+monitor.nobound3-3lex.PPMIno.LENGTHFOC.SOCPOSall			False	BOW	352	no	lex	3-3	FOC	all	240
+monitor.nobound3-3lex.PPMIno.LENGTHFOC.SOCPOSnav			False	BOW	352	no	lex	3-3	FOC	nav	240
+monitor.nobound3-3lex.PPMIselection.LENGTH5000.SOCPOSall			False	BOW	286	selection	lex	3-3	5000	all	220
+monitor.nobound3-3lex.PPMIselection.LENGTH5000.SOCPOSnav			False	BOW	286	selection	lex	3-3	5000	nav	220
+monitor.nobound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall			False	BOW	286	selection	lex	3-3	FOC	all	220
+monitor.nobound3-3lex.PPMIselection.LENGTHFOC.SOCPOSnav			False	BOW	286	selection	lex	3-3	FOC	nav	220
+monitor.nobound3-3lex.PPMIweight.LENGTH5000.SOCPOSall			False	BOW	286	weight	lex	3-3	5000	all	220
+monitor.nobound3-3lex.PPMIweight.LENGTH5000.SOCPOSnav			False	BOW	286	weight	lex	3-3	5000	nav	220
+monitor.nobound3-3lex.PPMIweight.LENGTHFOC.SOCPOSall			False	BOW	286	weight	lex	3-3	FOC	all	220
+monitor.nobound3-3lex.PPMIweight.LENGTHFOC.SOCPOSnav			False	BOW	286	weight	lex	3-3	FOC	nav	220
+monitor.nobound5-5all.PPMIno.LENGTH5000.SOCPOSall			False	BOW	814	no	all	5-5	5000	all	240
+monitor.nobound5-5all.PPMIno.LENGTH5000.SOCPOSnav			False	BOW	814	no	all	5-5	5000	nav	240
+monitor.nobound5-5all.PPMIno.LENGTHFOC.SOCPOSall			False	BOW	814	no	all	5-5	FOC	all	240
+monitor.nobound5-5all.PPMIno.LENGTHFOC.SOCPOSnav			False	BOW	814	no	all	5-5	FOC	nav	240
+monitor.nobound5-5all.PPMIselection.LENGTH5000.SOCPOSall			False	BOW	566	selection	all	5-5	5000	all	240
+monitor.nobound5-5all.PPMIselection.LENGTH5000.SOCPOSnav			False	BOW	566	selection	all	5-5	5000	nav	240
+monitor.nobound5-5all.PPMIselection.LENGTHFOC.SOCPOSall			False	BOW	566	selection	all	5-5	FOC	all	240
+monitor.nobound5-5all.PPMIselection.LENGTHFOC.SOCPOSnav			False	BOW	566	selection	all	5-5	FOC	nav	240
+monitor.nobound5-5all.PPMIweight.LENGTH5000.SOCPOSall			False	BOW	566	weight	all	5-5	5000	all	240
+monitor.nobound5-5all.PPMIweight.LENGTH5000.SOCPOSnav			False	BOW	566	weight	all	5-5	5000	nav	240
+monitor.nobound5-5all.PPMIweight.LENGTHFOC.SOCPOSall			False	BOW	566	weight	all	5-5	FOC	all	240
+monitor.nobound5-5all.PPMIweight.LENGTHFOC.SOCPOSnav			False	BOW	566	weight	all	5-5	FOC	nav	240
+monitor.nobound5-5lex.PPMIno.LENGTH5000.SOCPOSall			False	BOW	590	no	lex	5-5	5000	all	240
+monitor.nobound5-5lex.PPMIno.LENGTH5000.SOCPOSnav			False	BOW	590	no	lex	5-5	5000	nav	240
+monitor.nobound5-5lex.PPMIno.LENGTHFOC.SOCPOSall			False	BOW	590	no	lex	5-5	FOC	all	240
+monitor.nobound5-5lex.PPMIno.LENGTHFOC.SOCPOSnav			False	BOW	590	no	lex	5-5	FOC	nav	240
+monitor.nobound5-5lex.PPMIselection.LENGTH5000.SOCPOSall			False	BOW	410	selection	lex	5-5	5000	all	235
+monitor.nobound5-5lex.PPMIselection.LENGTH5000.SOCPOSnav			False	BOW	410	selection	lex	5-5	5000	nav	235
+monitor.nobound5-5lex.PPMIselection.LENGTHFOC.SOCPOSall			False	BOW	410	selection	lex	5-5	FOC	all	235
+monitor.nobound5-5lex.PPMIselection.LENGTHFOC.SOCPOSnav			False	BOW	410	selection	lex	5-5	FOC	nav	235
+monitor.nobound5-5lex.PPMIweight.LENGTH5000.SOCPOSall			False	BOW	410	weight	lex	5-5	5000	all	235
+monitor.nobound5-5lex.PPMIweight.LENGTH5000.SOCPOSnav			False	BOW	410	weight	lex	5-5	5000	nav	235
+monitor.nobound5-5lex.PPMIweight.LENGTHFOC.SOCPOSall			False	BOW	410	weight	lex	5-5	FOC	all	235
+monitor.nobound5-5lex.PPMIweight.LENGTHFOC.SOCPOSnav			False	BOW	410	weight	lex	5-5	FOC	nav	235
